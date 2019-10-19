@@ -35,6 +35,7 @@ import com.fasterxml.jackson.databind.introspect.VisibilityChecker;
     			The objective is to find those cars that produced the highest profit in the last year
     			
     Also created a sample input JSON file "/Users/vinay/git/APPLETEST/myapple/src/resources/Input.json" for ease of this assignment
+    The models java files for each of JSON parameter is in the MODEL path
  *
  * Also wrote few unit test cases in Testappleassignment class at "/myapple/src/test/java/mytestapple/myapple/Testappleassignment.java"
  * 
