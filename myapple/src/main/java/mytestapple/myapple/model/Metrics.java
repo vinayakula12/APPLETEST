@@ -15,5 +15,13 @@ public class Metrics {
 		this.depreciation = depreciation;
 	}
 	float depreciation;
+	Rentalcount rentalcount;
+	public Rentalcount getRentalcount() {
+		return rentalcount;
+	}
+	public void setRentalcount(Rentalcount rentalcount) {
+		this.rentalcount = rentalcount;
+	}
+	
 
 }

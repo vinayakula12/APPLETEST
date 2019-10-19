@@ -1,18 +1,18 @@
 package mytestapple.myapple.model;
 
 public class Perdayrent {
-	String Price;
-	public String getPrice() {
+	float Price;
+	public float getPrice() {
 		return Price;
 	}
-	public void setPrice(String Price) {
+	public void setPrice(float Price) {
 		this.Price = Price;
 	}
-	public String getDiscount() {
+	public float getDiscount() {
 		return Discount;
 	}
-	public void setDiscount(String Discount) {
+	public void setDiscount(float Discount) {
 		this.Discount = Discount;
 	}
-	String Discount;
+	float Discount;
 }
